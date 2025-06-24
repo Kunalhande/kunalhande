@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Hande</h1>
+<h1 align="center">Hi 👋, Im Kunal Hande</h1>
 <h3 align="center">A passionate full Stack Dveloper from India</h3>
 
 
