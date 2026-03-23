@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Fullstack Web Development and DSA with java **
 
 - 💬 Ask me about **website development**
-- 📫 How to reach me **kunalhand30@gmail.com**
+- 📫 How to reach me **kunalhande01@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
